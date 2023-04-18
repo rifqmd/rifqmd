@@ -1,7 +1,20 @@
 ### Hi there 👋
 
+- 🔭 I'm a student who is still studying front-end development and network security.
+- 🤓 I'm into DevOps.
+- 🌱 I'm learning English more deeply.
+
+Find me on:
+
+- 💻 [Kaggle]([https://pypi.org/user/rodrigobdz/](https://www.kaggle.com/rfqimd)), [Docker Hub]()
+- ✍🏼 [My Porto]()
+- 👔 [LinkedIn](https://www.linkedin.com/in/rifqi-muhammad-6137a5258/)
+- 🎧 [Spotify](https://open.spotify.com/user/81y47zzsohto2z3euqtrwllfc)
+
+[![Rodrigo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobdz&hide=jupyter%20notebook,html&layout=compact&langs_count=6)](https://github.com/rifqmd)
+
 <!--
-**rifqmd/rifqmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rodrigobdz/rodrigobdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

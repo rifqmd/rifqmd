@@ -7,7 +7,7 @@
 Find me on:
 
 - 💻 [Kaggle](https://www.kaggle.com/rfqimd), [Docker Hub]()
-- ✍🏼 [My Porto]()
+- ✍🏼 [My Portfolio]()
 - 👔 [LinkedIn](https://www.linkedin.com/in/rifqi-muhammad-6137a5258/)
 - 🎧 [Spotify](https://open.spotify.com/user/81y47zzsohto2z3euqtrwllfc)
 

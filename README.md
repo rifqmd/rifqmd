@@ -6,7 +6,7 @@
 
 Find me on:
 
-- 💻 [Kaggle]([https://pypi.org/user/rodrigobdz/](https://www.kaggle.com/rfqimd)), [Docker Hub]()
+- 💻 [Kaggle]([https://www.kaggle.com/rfqimd]), [Docker Hub]()
 - ✍🏼 [My Porto]()
 - 👔 [LinkedIn](https://www.linkedin.com/in/rifqi-muhammad-6137a5258/)
 - 🎧 [Spotify](https://open.spotify.com/user/81y47zzsohto2z3euqtrwllfc)

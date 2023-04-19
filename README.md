@@ -1,4 +1,15 @@
-### Hi there 👋
+### ~ $ whoami
+
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center" >Rifqi Muhammad</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+DevOps;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+<!-- markdownlint-enable MD033 -->
+
 
 - 🔭 I'm a student who is still studying front-end development and network security.
 - 🤓 I'm into DevOps.
@@ -12,18 +23,3 @@ Find me on:
 - 🎧 [Spotify](https://open.spotify.com/user/81y47zzsohto2z3euqtrwllfc)
 
 [![Rodrigo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobdz&hide=jupyter%20notebook,html&layout=compact&langs_count=6)](https://github.com/rifqmd)
-
-<!--
-**rodrigobdz/rodrigobdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

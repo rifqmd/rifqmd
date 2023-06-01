@@ -22,4 +22,18 @@ Find me on:
 - 👔 [LinkedIn](https://www.linkedin.com/in/rifqi-muhammad-6137a5258/)
 - 🎧 [Spotify](https://open.spotify.com/user/81y47zzsohto2z3euqtrwllfc)
 
-[![Rodrigo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobdz&hide=jupyter%20notebook,html&layout=compact&langs_count=6)](https://github.com/rifqmd)
+<!-- [![Rodrigo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobdz&hide=jupyter%20notebook,html&layout=compact&langs_count=6)](https://github.com/rifqmd) -->
+***
+**⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rifqmd&show_icons=true&theme=dark&locale=en&hide_border=true" alt="rifqmd" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rifqmd&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
+
+<div align="center">
+
+### Thank You!!
+
+</div>

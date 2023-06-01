@@ -23,6 +23,14 @@ Find me on:
 - 🎧 [Spotify](https://open.spotify.com/user/81y47zzsohto2z3euqtrwllfc)
 
 <!-- [![Rodrigo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobdz&hide=jupyter%20notebook,html&layout=compact&langs_count=6)](https://github.com/rifqmd) -->
+
+<!-- <p align="center">
+<a href="https://github.com/rifqmd">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifqmd&layout=compact&langs_count=8&theme=buefy"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifqmd&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p> -->
+
 ***
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
